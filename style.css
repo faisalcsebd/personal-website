@@ -1,0 +1,66 @@
+.first-background{
+   background-image: url(images/header-bg.png);
+}
+section{
+    height: 700px;
+    padding-bottom: 150px;
+    
+}
+
+.half-width{
+ width: 45%;
+ float: left;
+ padding-left: 10px;
+ margin-left: 2px;
+}
+
+.half-width h1{
+    text-align: center;
+   }
+
+.half-width p{
+    text-align: center;
+   }
+.text-color{
+    color: rgb(231, 20, 150);
+}   
+
+.half-width img{
+    width: 100%;
+   }
+
+.button-link{
+    text-decoration: none;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    border-radius: 2px;
+    color: white;
+    background-color: rgb(231, 20, 150);
+    
+}   
+
+.biography-background{
+
+    background-image: url(images/biography-bg.png);
+
+}
+
+.latest-work{
+    text-align: center;
+}
+
+.first-work img{
+    width: 30%;
+
+}
+
+.second-work img{
+    width: 30%;
+    float: left;
+
+}
+
+.third-work img{
+    width: 30%;
+
+}
